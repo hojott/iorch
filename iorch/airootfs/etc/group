@@ -1,0 +1,5 @@
+root:x:0:brltty,root
+adm:x:4:kussi
+wheel:x:10:kussi
+sudo:x:999:kussi
+kussi:x:1000:
