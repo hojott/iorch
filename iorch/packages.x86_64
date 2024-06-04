@@ -1,4 +1,4 @@
-base-devel
+base
 linux
 linux-firmware
 
@@ -35,6 +35,7 @@ dhcpcd
 openresolv
 lynx
 
+base-devel
 arch-install-scripts
 archinstall
 archiso
