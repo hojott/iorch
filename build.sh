@@ -7,3 +7,4 @@ mkdir $BUILD_DIR
 mkarchiso -v -w $BUILD_DIR -o iorch.iso iorch/
 rm -rf $BUILD_DIR
 
+sha256sum iorch.iso > "iorch.sha"
